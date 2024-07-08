@@ -11,6 +11,7 @@ export const APP_INFO: AppInfo = {
   default_language: 'en-EN',
 }
 
+
 export const API_PREFIX = '/app'
 
 export const LOCALE_COOKIE_NAME = 'locale'
