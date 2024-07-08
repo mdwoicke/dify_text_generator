@@ -4,7 +4,7 @@ export const API_KEY = 'app-GAkz33MTKX8DWk1OI8PlbVBF'
 export const API_URL = 'https://dify-awuac-u15194.vm.elestio.app/v1'
 export const IS_WORKFLOW = 'true'
 export const APP_INFO: AppInfo = {
-  title: 'Generator APP',
+  title: 'Generator APP2',
   description: 'App description',
   copyright: '',
   privacy_policy: '',
