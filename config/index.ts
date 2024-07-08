@@ -11,7 +11,7 @@ export const APP_INFO: AppInfo = {
   default_language: 'en-EN',
 }
 
-export const API_PREFIX = '/api'
+export const API_PREFIX = 'https://dify-awuac-u15194.vm.elestio.app/v1'
 
 export const LOCALE_COOKIE_NAME = 'locale'
 
