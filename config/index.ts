@@ -4,11 +4,11 @@ export const API_KEY = `${process.env.NEXT_PUBLIC_APP_KEY}`
 export const API_URL = `http://dify-awuac-u15194.vm.elestio.app/v1`
 export const IS_WORKFLOW = `false` 
 export const APP_INFO: AppInfo = {
-  title: 'Text Generator APP',
+  title: 'Generator APP',
   description: 'App description',
   copyright: '',
   privacy_policy: '',
-  default_language: 'zh-Hans',
+  default_language: 'en-EN',
 }
 
 export const API_PREFIX = '/api'
