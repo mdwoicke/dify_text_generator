@@ -1,7 +1,7 @@
 import { type NextRequest } from 'next/server'
 import { CompletionClient } from 'dify-client'
 import { v4 } from 'uuid'
-import { API_KEY, 'http://dify-awuac-u15194.vm.elestio.app/v1', APP_ID } from '@/config'
+import { API_KEY, "http://dify-awuac-u15194.vm.elestio.app/v1", APP_ID } from '@/config'
 
 const userPrefix = `user_${APP_ID}:`
 
